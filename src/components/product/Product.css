@@ -1,0 +1,19 @@
+.card {
+    margin: 50px auto;
+    float: none;
+    margin-bottom: 10px;
+    width: 52vw;
+}
+
+.loaderImg {
+    margin: 60px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main h3 {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
